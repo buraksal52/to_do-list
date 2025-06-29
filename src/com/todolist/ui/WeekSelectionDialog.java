@@ -1,4 +1,5 @@
 package com.todolist.ui;
+//29 haziran tarihinde eklenen bu class sayesinde arşivdeki görevler dosyaya kaydedilebiliyor
 
 import javax.swing.*;
 import java.awt.*;
